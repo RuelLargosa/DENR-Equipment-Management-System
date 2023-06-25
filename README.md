@@ -1,4 +1,4 @@
-# DENR-Equipment-Management-System
+# DENR-Equipment-Management-System is a LAN Based System developed using PHP, HTML CSS and Javascript
 ![Login Form](https://github.com/RuelLargosa/DENR-Equipment-Management-System/assets/136546978/ed5e7d13-3e89-4e12-b7db-2bfca5bd57a3)
 ![Dashboard](https://github.com/RuelLargosa/DENR-Equipment-Management-System/assets/136546978/0b254e79-64bc-4ad6-90d1-9048859a640a)
 ![Personnel List](https://github.com/RuelLargosa/DENR-Equipment-Management-System/assets/136546978/8be1cb40-4279-4d8d-969d-319284249818)
